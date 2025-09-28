@@ -1,0 +1,19 @@
+﻿{
+  "sinhvien": [
+    {
+      "MSSV": "1245678",
+      "hoten": "Thái Duy",
+      "tuoi": 21,
+      "diem": 8.5,
+      "tongiao": false
+    },
+
+    {
+      "MSSV": "1245786",
+      "hoten": "Phan Thị Vũ",
+      "tuoi": 20,
+      "diem": 9.0,
+      "tongiao": true
+    }
+  ]
+}
